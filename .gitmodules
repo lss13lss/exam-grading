@@ -1,0 +1,3 @@
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:lss13lss/learning-lm-rs.git
